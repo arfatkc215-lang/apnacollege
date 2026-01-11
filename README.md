@@ -1,4 +1,4 @@
 # apnacollege
 this is my first git repo
-<b>
+<br>
 Author - Arfat Chandwale first repo 
